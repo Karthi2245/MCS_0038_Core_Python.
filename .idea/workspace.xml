@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1592a8a0-c8b5-4702-a1cd-5dedea95db5b" name="Default Changelist" comment="core">
+      <change afterPath="$PROJECT_DIR$/.idea/MCS_0038_Core_Python..iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_maths_basics/Functions_output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_maths_basics/_10_Matrices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_maths_basics/_1_Number_System.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_maths_basics/_2_Arithemtics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_maths_basics/_3_Binary_Number_System.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_maths_basics/_4_logial_gates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_maths_basics/_5_Sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_maths_basics/_6_Sequence,Series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_maths_basics/_7_Algebra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_maths_basics/_8_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_maths_basics/_9_Plane Geometry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_maths_basics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_01_maths_basics/matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Introduction/Madhu_Notes/06. Keywords.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Introduction/Madhu_Notes/1.Introduction.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Introduction/Madhu_Notes/3. Eclipse with Python.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Introduction/Madhu_Notes/5. DataTypes Introduction.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Introduction/My_Notes/introduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/2.Variables.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/2.Variables_PPT.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/Documentation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/Images/0. read operation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/Images/0. write operation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/Images/2.Variables2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/Images/2.variables.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/Images/Ref_count.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/Images/_1_Variables.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/Images/_2_Variables.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/Images/_3_boolean.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/Images/_4_vars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/Images/_5_vars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/Images/_6_Reassing_val.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/Images/mem_allc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/Images/var4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/Images/var4_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/Images/varialbes3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/_1_notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/_2_notes.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/_3_Other notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/_4_Images_Code.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/Madhu_Notes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_03_Variables/My_Notes/variables notes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/Images/4. assignment_op.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/Images/4. identity,comp ops.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/Images/Comparsion vs Identity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/Images/_4_Operator_Identity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/Images/_4_Operators_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/Images/_6_comp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/Images/_6_comp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/Images/_assignment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/Images/mem_allc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/Operators/06-Jul_21_Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/Operators/4. Operators.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/Operators/Arithmetic,Comaprsion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/Operators/_Other operators.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/Operators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/Operators/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/_02_Relational/_2_Relational.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/_03_Logical/_4_Logical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/_04_Assignment/_3_Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/_05_Bitwise/_5_Bitwise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/_06_Membership/_6_Membership.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/Madhu_Notes/_1_Arithmetic/_1_Arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/My_Notes/Arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/My_Notes/Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/My_Notes/Comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/My_Notes/Identity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/My_Notes/Logical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/My_Notes/Membership.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_DataTypes_Intro/Madhu_Notes/5. DataTypes Introduction.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_DataTypes_Intro/Madhu_Notes/_01_Data_Structures/_0_CRUD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_DataTypes_Intro/Madhu_Notes/_01_Data_Structures/_1_datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_DataTypes_Intro/Madhu_Notes/_01_Data_Structures/_1_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_DataTypes_Intro/Madhu_Notes/_01_Data_Structures/_2_Data_Structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_DataTypes_Intro/Madhu_Notes/_01_Data_Structures/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_DataTypes_Intro/Madhu_Notes/self_practice/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_DataTypes_Intro/My_notes/datastructure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_DataTypes_Intro/My_notes/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_DataTypes_Intro/My_notes/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_DataTypes_Intro/My_notes/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_DataTypes_Intro/My_notes/string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_DataTypes_Intro/My_notes/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/Madhu_Notes/7. Decision Making.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/Madhu_Notes/_1_if/_1_if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/Madhu_Notes/_1_if/_1_if2_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/Madhu_Notes/_1_if/_1_one_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/Madhu_Notes/_1_if/_2_if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/Madhu_Notes/_1_if/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/Madhu_Notes/_2_if_else/_2_Conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/Madhu_Notes/_2_if_else/_2_Two_conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/Madhu_Notes/_2_if_else/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/Madhu_Notes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/Madhu_Notes/__practice__/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/My_Notes/_1_if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/My_Notes/_2_if_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/My_Notes/_3_nested_if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/My_Notes/_4_elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/My_Notes/_5_Assignment/Leap_Year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/My_Notes/_5_Assignment/_01_Grade_System.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/My_Notes/_5_Assignment/_02_Maximum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/My_Notes/_5_Assignment/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/My_Notes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_DecisionMaking/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_07_Loops/My_Notes/for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_07_Loops/My_Notes/while_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_1_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_2_String_Methods/_07_length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_2_String_Methods/_10_replace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_2_String_Methods/_11_rstrip().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_2_String_Methods/_12_startswith().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_2_String_Methods/_8_max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_2_String_Methods/_9_min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_2_list/_01_properties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_2_list/_02_list_seq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_2_list/_03_list_methods/_1_append.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_2_list/_03_list_methods/_2_extend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_2_list/_03_list_methods/_3_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_2_list/_03_list_methods/_4_pop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_2_list/_03_list_methods/_5_remove.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_2_list/_03_list_methods/_6_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_2_list/_03_list_methods/_7_insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_2_list/_03_list_methods/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_3_tuble/_1_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_3_tuble/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_4_dictionary/_1_basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_4_dictionary/_2_Dict_Mutable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_4_dictionary/_3_dict_functions/_1_get.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_4_dictionary/_3_dict_functions/_2_update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_4_dictionary/_3_dict_functions/_3_popitem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_4_dictionary/_3_dict_functions/_4_set_default.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_4_dictionary/_3_dict_functions/_5_fromkeys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_4_dictionary/_3_dict_functions/_6_pop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_4_dictionary/_3_dict_functions/_7_copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_4_dictionary/_3_dict_functions/_8_clear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_4_dictionary/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_5_set/_1_basics_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_5_set/__init__.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_00_Assignment/_00_Assignments/_02_count_char_str.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="70" lean-forward="true" selection-end-line="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_00_Assignment/_00_Assignments/_01_Len_of_str.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="56" column="35" lean-forward="true" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_00_Assignment/_00_Assignments/_03_Str_slicing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-556">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_12_OOPS/Madhu_notes/_03_fields,methods/_1_Instance_vars,methods.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_2_String_Methods/_07_length.py" />
+        <option value="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_2_String_Methods/max.py" />
+        <option value="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_2_String_Methods/_8_max.py" />
+        <option value="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_2_String_Methods/_9_min.py" />
+        <option value="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_2_String_Methods/_10_replace.py" />
+        <option value="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_2_String_Methods/rstrip().py" />
+        <option value="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_2_String_Methods/_11_rstrip().py" />
+        <option value="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_2_String_Methods/startswith().py" />
+        <option value="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_2_String_Methods/_12_startswith().py" />
+        <option value="$PROJECT_DIR$/_00_Assignment/_00_Assignments/_01_String_Assignments/_01_Length_of_string.py" />
+        <option value="$PROJECT_DIR$/_07_Loops/My_Notes/while_loop.py" />
+        <option value="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_5_set/_1_basics_set.py" />
+        <option value="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_09_Data_Type.py" />
+        <option value="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_2_list/_01_properties.py" />
+        <option value="$PROJECT_DIR$/MCS_0038_Core_Python/addition.py" />
+        <option value="$PROJECT_DIR$/_04_Operators/My_Notes/Membership.py" />
+        <option value="$PROJECT_DIR$/_00_Assignment/_01_string/_01_Len_of_str.py" />
+        <option value="$PROJECT_DIR$/_10_Functions/My_Notes/_1_basics.py" />
+        <option value="$PROJECT_DIR$/_10_Functions/My_notes/_1_basics.py" />
+        <option value="$PROJECT_DIR$/_10_Functions/My_notes/_3_Function_calling.py" />
+        <option value="$PROJECT_DIR$/_10_Functions/My_notes/_4_arguments.py" />
+        <option value="$PROJECT_DIR$/_10_Functions/My_notes/_5_different_types.py" />
+        <option value="$PROJECT_DIR$/_10_Functions/My_notes/_2_Types_of_Function.py" />
+        <option value="$PROJECT_DIR$/_10_Functions/My_notes/_6_passing_arguments.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_1_basics.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/ram.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_4_theatre.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/Muncipaloffice.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_9_Vehicle.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_10_bike.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_11_bag.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_12_Geometrybox.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_13_Engine.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_14_Engine_Process.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_15_Gas.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_16_Pycharm.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_17_Color.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_18_Laptops.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_20_Myprofile.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_19_Gender.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_2_mobile.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_1_employee.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_3_mob_ram.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_4_Multiplex.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_5_subject.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_6_ebbill.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_7_Muncipaloffice.py" />
+        <option value="$PROJECT_DIR$/_12_OOPS/My_Notes/_8_Fruits.py" />
+        <option value="$PROJECT_DIR$/_05_DataTypes_Intro/My_notes/string.py" />
+        <option value="$PROJECT_DIR$/_00_Assignment/_00_Assignments/_02_count_char_str.py" />
+        <option value="$PROJECT_DIR$/_00_Assignment/_00_Assignments/_03_Str_slicing.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="602" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MCS_0038_Core_Python." type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCS-Core Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCS_0038_Core_Python." type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCS-Core Python" type="462c0819:PsiDirectoryNode" />
+              <item name="_00_Assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCS_0038_Core_Python." type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCS-Core Python" type="462c0819:PsiDirectoryNode" />
+              <item name="_00_Assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="_00_Assignments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCS_0038_Core_Python." type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCS-Core Python" type="462c0819:PsiDirectoryNode" />
+              <item name="_01_maths_basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCS_0038_Core_Python." type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCS-Core Python" type="462c0819:PsiDirectoryNode" />
+              <item name="_05_DataTypes_Intro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCS_0038_Core_Python." type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCS-Core Python" type="462c0819:PsiDirectoryNode" />
+              <item name="_05_DataTypes_Intro" type="462c0819:PsiDirectoryNode" />
+              <item name="My_notes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCS_0038_Core_Python." type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCS-Core Python" type="462c0819:PsiDirectoryNode" />
+              <item name="_09_Data_Structures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCS_0038_Core_Python." type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCS-Core Python" type="462c0819:PsiDirectoryNode" />
+              <item name="_09_Data_Structures" type="462c0819:PsiDirectoryNode" />
+              <item name="My_Notes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCS_0038_Core_Python." type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCS-Core Python" type="462c0819:PsiDirectoryNode" />
+              <item name="_09_Data_Structures" type="462c0819:PsiDirectoryNode" />
+              <item name="My_Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="_1_String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCS_0038_Core_Python." type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCS-Core Python" type="462c0819:PsiDirectoryNode" />
+              <item name="_09_Data_Structures" type="462c0819:PsiDirectoryNode" />
+              <item name="My_Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="_1_String" type="462c0819:PsiDirectoryNode" />
+              <item name="_2_String_Methods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCS_0038_Core_Python." type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCS-Core Python" type="462c0819:PsiDirectoryNode" />
+              <item name="_09_Data_Structures" type="462c0819:PsiDirectoryNode" />
+              <item name="My_Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="_2_list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCS_0038_Core_Python." type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCS-Core Python" type="462c0819:PsiDirectoryNode" />
+              <item name="_10_Functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCS_0038_Core_Python." type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCS-Core Python" type="462c0819:PsiDirectoryNode" />
+              <item name="_10_Functions" type="462c0819:PsiDirectoryNode" />
+              <item name="My_notes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCS_0038_Core_Python." type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCS-Core Python" type="462c0819:PsiDirectoryNode" />
+              <item name="_12_OOPS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCS_0038_Core_Python." type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCS-Core Python" type="462c0819:PsiDirectoryNode" />
+              <item name="_12_OOPS" type="462c0819:PsiDirectoryNode" />
+              <item name="Madhu_notes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCS_0038_Core_Python." type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCS-Core Python" type="462c0819:PsiDirectoryNode" />
+              <item name="_12_OOPS" type="462c0819:PsiDirectoryNode" />
+              <item name="Madhu_notes" type="462c0819:PsiDirectoryNode" />
+              <item name="_03_fields,methods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MCS_0038_Core_Python." type="b2602c69:ProjectViewProjectNode" />
+              <item name="MCS-Core Python" type="462c0819:PsiDirectoryNode" />
+              <item name="_12_OOPS" type="462c0819:PsiDirectoryNode" />
+              <item name="My_Notes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_5_set/__init__.py" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python._03_Str_slicing">
+    <configuration name="_02_count_char_str" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MCS_0038_Core_Python." />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_00_Assignment/_00_Assignments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_00_Assignment/_00_Assignments/_02_count_char_str.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_03_Str_slicing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MCS_0038_Core_Python." />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_00_Assignment/_00_Assignments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_00_Assignment/_00_Assignments/_03_Str_slicing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_1_basics_set" type="PythonConfigurationType" factoryName="Python">
+      <module name="MCS_0038_Core_Python." />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_5_set" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_09_Data_Structures/My_Notes/_5_set/_1_basics_set.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_6_ebbill" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MCS_0038_Core_Python." />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_12_OOPS/My_Notes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_12_OOPS/My_Notes/_6_ebbill.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_7_Muncipaloffice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MCS_0038_Core_Python." />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_12_OOPS/My_Notes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_12_OOPS/My_Notes/_7_Muncipaloffice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_8_Fruits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MCS_0038_Core_Python." />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_12_OOPS/My_Notes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_12_OOPS/My_Notes/_8_Fruits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="operators_1" type="PythonConfigurationType" factoryName="Python">
+      <module name="MCS_0038_Core_Python." />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_01_Introduction To Python/MyNotes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_01_Introduction To Python/MyNotes/operators_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python._03_Str_slicing" />
+        <item itemvalue="Python._02_count_char_str" />
+        <item itemvalue="Python._8_Fruits" />
+        <item itemvalue="Python._7_Muncipaloffice" />
+        <item itemvalue="Python._6_ebbill" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Iswarya\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1592a8a0-c8b5-4702-a1cd-5dedea95db5b" name="Default Changelist" comment="" />
+      <created>1633366228967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633366228967</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.15997024" />
+      <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.24330357" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6629464" visible="true" weight="0.47954175" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.33705357" side_tool="true" weight="0.36886993" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.15997024" />
+      <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.24330357" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6629464" visible="true" weight="0.47954175" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.33705357" side_tool="true" weight="0.36886993" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="core" />
+    <option name="LAST_COMMIT_MESSAGE" value="core" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_06_DecisionMaking/My_Notes/_1_if.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_00_Assignment/_01_Len_of_str.py" />
+    <entry file="file://$PROJECT_DIR$/_07_Loops/My_Notes/while_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="120" column="12" selection-start-line="120" selection-start-column="12" selection-end-line="120" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_06_DecisionMaking/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_Operators/Madhu_Notes/_05_Bitwise/_5_Bitwise.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_Operators/Madhu_Notes/_1_Arithmetic/_1_Arithmetic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_Operators/My_Notes/Membership.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_00_Assignment/_01_string/_01_Len_of_str.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_10_Functions/New folder/_1_basics.py" />
+    <entry file="file://$PROJECT_DIR$/_10_Functions/Madhu_Notes/_2_Types_Functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_10_Functions/Madhu_Notes/_3_Function_Calling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_10_Functions/Madhu_Notes/_6_Different_types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_10_Functions/Madhu_Notes/_4_Arugments_Parameters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_10_Functions/Madhu_Notes/_5_Return_type.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_10_Functions/Madhu_Notes/_7_passing_arguments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="51" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_10_Functions/My_notes/_3_Function_calling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/Madhu_notes/_00_basics/__1_Why_oops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="134" lean-forward="true" selection-start-line="121" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_17_Color.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_20_Myprofile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_19_Gender.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_18_Laptops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_16_Pycharm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_15_Gas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_14_Engine_Process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_13_Engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_12_Geometrybox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_11_bag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_10_bike.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_9_Vehicle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_8_Fruits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_7_Muncipaloffice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_6_ebbill.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_5_subject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_4_Multiplex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_3_mob_ram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_2_mobile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/My_Notes/_1_employee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_05_DataTypes_Intro/My_notes/string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_10_Functions/My_notes/_2_Types_of_Function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="64" column="31" lean-forward="true" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_10_Functions/My_notes/_4_arguments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_10_Functions/My_notes/_5_different_types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="73" selection-start-line="66" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_10_Functions/My_notes/_6_passing_arguments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_2_String_Methods/_3_ count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-833816954/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80444">
+          <caret line="4732" column="54" selection-start-line="4732" selection-start-column="54" selection-end-line="4732" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_10_Functions/My_notes/_1_basics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_1_String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_Data_Structures/My_Notes/_1_String/_09_Data_Type.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_09_Data_Structures/My_Notes/_2_list/_01_properties.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_00_Assignment/_00_Assignments/_01_Len_of_str.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="56" column="35" lean-forward="true" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_00_Assignment/_00_Assignments/_02_count_char_str.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="70" lean-forward="true" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_12_OOPS/Madhu_notes/_03_fields,methods/_1_Instance_vars,methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_00_Assignment/_00_Assignments/_03_Str_slicing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-556">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
