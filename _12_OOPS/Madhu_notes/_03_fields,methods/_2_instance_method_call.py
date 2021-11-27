@@ -35,15 +35,21 @@ class Employee:
         else:
             print(" Hike is :: ", 0)
 
+
 # select * from employee
-emp_info = [{'eid':100,'name':'MadhuN','sal':10000},{}]
+
+
+emp_info = [{'eid':100, 'name':'MadhuN', 'sal':10000}, {}]
 rating = [{'eid':100,'rating':3},]
+
+
 for ind in range(len(emp_info)):
     emp = emp_info[ind]
     rating = rating[ind]['rating']
     madhu = Employee(emp['eid'], emp['name'], emp['sal'])
     madhu.get_edata()
     e_rating = madhu.apply_hike(rating)
+
     # UPDATE QUERY
     # SEND EMAIL TO Employee,Manager
 

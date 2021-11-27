@@ -40,8 +40,9 @@ Step1 : 2 parts :
 Step2 : Python will check and find the address of Employee
 Step3 : First python creates empty object of Employee class
         Employee class __init__ method will be called, passes 
-                1. Address of empty object to self parameter         ==> self
-                2. the tuple of arguments will be passed to remaining parameters  ==> (eid, name, sal) 
+            1. Address of empty object to self parameter         ==> self
+            2. the tuple of arguments will be passed to remaining parameters
+                  ==> (eid, name, sal) 
 Step4 : Data passes to local variables (eid, name, sal)               
 Step5 : self.eid = eid 
         LHS eid = instance variable

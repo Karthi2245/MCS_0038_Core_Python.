@@ -1,3 +1,22 @@
+'''
+OOPS:
+--> Oops is a Object oriented  programing language that uses class and objects.
+--> The concept of the  oops is to bind the data and functions together that
+works on a single unit.
+
+Object:
+--> Object is something which exist physically.
+--> Everything exist in the world is object and likewise everything is a object
+in python.
+
+Class:
+--> Some Objects may have similar behaviour.Such object belongs to same
+category called a 'Class'.
+--> A class is a group name and does not exist physically.
+
+
+'''
+
 # Create a class:
 class Employee:  # class
     # State

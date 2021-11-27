@@ -120,6 +120,14 @@ for i in str1:
 for j in str2:
     print(j)
 
+m = int(input("Enter a Number"))
+n = int(input("Enter a number"))
+
+while m<n+1:
+    if m % 2 == 0:
+        print(m)
+    m += 1
+
 
 
 

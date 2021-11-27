@@ -35,3 +35,16 @@ madhu.get_edata()  # Employee.get_edata(madhu)
 li1 = [1, 2, 3]  # list1 is of type class list
 li1.append(100)  # list.append(li1,100)
 li1.pop()        # list.pop(li1)
+
+
+
+# []
+
+list1 = []
+
+for i in range(0,10):
+    list1.append([])
+
+    x = str(list1)
+
+print(list1, type(x))

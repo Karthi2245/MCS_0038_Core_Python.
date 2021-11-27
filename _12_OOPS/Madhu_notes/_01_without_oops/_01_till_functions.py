@@ -21,7 +21,7 @@ str1 = 'hello world'
 le = 0
 for char in str1:
     le += 1
-print("Length of string : ", le)
+print("Length of string : ")
 
 print("-------2. With functions-------")
 
