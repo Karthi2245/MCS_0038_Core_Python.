@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1592a8a0-c8b5-4702-a1cd-5dedea95db5b" name="Default Changelist" comment="core">
-      <change beforePath="$PROJECT_DIR$/.idea/MCS_0038_Core_Python..iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MCS_0038_Core_Python..iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_00_Assignment/_00_Assignments/MCS_001_Data Structures_Algorithms.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_00_Assignment/_00_Assignments/_01_Len_of_str.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_00_Assignment/_00_Assignments/_02_count_char_str.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_00_Assignment/_00_Assignments/_03_Str_slicing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_00_Assignment/_01_string/_01_Len_of_str.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_07_Loops/My_Notes/while_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/_07_Loops/My_Notes/while_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/Madhu_notes/_01_without_oops/_01_till_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/_12_OOPS/Madhu_notes/_01_without_oops/_01_till_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/Madhu_notes/_02_self/_2_self_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/_12_OOPS/Madhu_notes/_02_self/_2_self_intro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/Madhu_notes/_03_fields,methods/_1_Instance_vars,methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/_12_OOPS/Madhu_notes/_03_fields,methods/_1_Instance_vars,methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/Madhu_notes/_03_fields,methods/_2_instance_method_call.py" beforeDir="false" afterPath="$PROJECT_DIR$/_12_OOPS/Madhu_notes/_03_fields,methods/_2_instance_method_call.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_10_bike.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_11_bag.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_12_Geometrybox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_13_Engine.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_14_Engine_Process.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_15_Gas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_16_Pycharm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_17_Color.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_18_Laptops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_19_Gender.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_1_employee.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_20_Myprofile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_2_mobile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_3_mob_ram.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_4_Multiplex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_5_subject.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_6_ebbill.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_7_Muncipaloffice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_8_Fruits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_12_OOPS/My_Notes/_9_Vehicle.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
