@@ -37,6 +37,7 @@ print(x)
 x = operate(dec, 4)
 print(x)
 
+
 def is_called():
     def is_returned():
         print("Hello")
